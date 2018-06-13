@@ -1,0 +1,7 @@
+[run]
+branch = true
+source = env_var_config
+
+[report]
+exclude_lines = def __repr__
+fail_under = 100
